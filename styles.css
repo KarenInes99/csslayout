@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    height:800px;
+    align-items:center;
+}
+.entete{
+    display:flex;
+}
+.logo{
+    margin-top:20px;
+    margin-left:80px;
+    width:100px;
+    height:20px;
+}
+.barre{
+    width:500px;
+    margin-left:100px;
+    margin-top:22px;
+}
+nav a{
+    text-decoration:none;
+    margin-left:20px;
+    color:gray;
+}
+.iconepanier{
+    margin-right:-100px;
+    margin-top:10px;
+    width:17px;
+    height:20px;
+}
+.avatar{
+    margin-left:8em;
+    width:33px;
+    height:37px;
+}
+.img{
+    width:500px;
+    height:400px;
+    margin-top:8em;
+    margin-left:5em;
+    border-radius:10px;
+}
+.img-bottom{
+    display:flex;
+    margin-left:5em;
+}
+.im{
+    width:110px;
+    height:90px;
+    border-radius:5px;
+}
+.imb, .imc, .imd{
+    margin-left:20px;
+}
+.main{
+    display:flex;
+}
+.main-droit{
+    margin-left:3em;
+}
+.sneak{
+    color:hsl(26, 100%, 55%);
+    margin-top:18em;
+    font-weight:bold;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size:10px;
+}
+.fall{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+.txtcentre{
+    color:gray;
+}
+.prix1{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight:bold;
+    font-size:21px;
+}
+.prix2{
+    display:flex;
+}
+.pourcentage{
+    background-color:Pale orange: hsl(25, 100%, 94%);
+    color:hsl(26, 100%, 55%);
+    font-size:13px;
+    margin-left:2em;
+    margin-top:1em;
+    font-weight:bold;
+}
+.prixhaut{
+    color:gray;
+}
+.moins{
+    width:10px;
+    height:3px;
+    margin-top:8px;
+}
+.zero{
+    margin-left:20px;
+    margin-top:0px;
+}
+.plus{
+    width:15px;
+    height:10px;
+    margin-left:20px;
+    margin-top:4px;
+}
+.dernierbloc{
+    display:flex;
+    margin-top:2em;
+}
+.add{
+    margin-left:10px;
+    text-align:center;
+}
+.icone{
+    margin-left:18px;
+    margin-top:10px;
+}
+.bouton{
+    background-color: hsl(26, 100%, 55%);
+    color:white;
+    border-radius:5px;
+    width:150px;
+    height:40px;
+    margin-left:150px;
+}
